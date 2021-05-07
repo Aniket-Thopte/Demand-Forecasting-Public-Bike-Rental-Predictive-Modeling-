@@ -6,4 +6,4 @@
 
 
 #
-![alt-text](giphy.gif)
+![alt-text](img/giphy.gif)
