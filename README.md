@@ -15,4 +15,4 @@
 ![alt-text](img/distribution.png)
 
 # Predictive Model Line Graphs
-![alt-text](img/results.png)
+![alt-text](img/result.png)
