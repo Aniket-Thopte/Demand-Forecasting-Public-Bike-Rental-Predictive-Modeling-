@@ -7,3 +7,12 @@
 
 #
 ![alt-text](img/giphy.gif)
+
+# Exploratory Data Analysis
+![alt-text](img/eda.png)
+
+# Data Attributes Distribution Graphs
+![alt-text](img/distribution.png)
+
+# Predictive Model Line Graphs
+![alt-text](img/results.png)
